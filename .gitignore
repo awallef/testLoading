@@ -13,6 +13,7 @@
 /app/webroot/files/
 /app/webroot/imagecahe/
 git-ftp.txt
+/nbproject/private/
 
 # OS generated files #
 ######################
